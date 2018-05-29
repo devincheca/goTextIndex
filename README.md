@@ -1,2 +1,3 @@
 # goTextIndex
-read text file and put together a hash of all of the characters in the file and their frequency
+
+reads a text file and puts together a map of all of the characters in the file and their frequency
